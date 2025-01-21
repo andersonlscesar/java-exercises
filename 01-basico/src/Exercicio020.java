@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Exercicio20 {
+public class Exercicio020 {
 
     /**
      * Write a Java program to convert a decimal number to a hexadecimal number.
